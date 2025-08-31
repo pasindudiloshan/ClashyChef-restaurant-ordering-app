@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925890838008",
+    "project_id": "clashy-kitchen",
+    "storage_bucket": "clashy-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925890838008:android:6db1c7ae2f5d285e16ea0d",
+        "android_client_info": {
+          "package_name": "com.example.clashy_kitchen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzh-gkqy-rKIV3iheYsXrlbLUrNMCCqT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
