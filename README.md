@@ -1,2 +1,16 @@
-# mobile-restaurant-ordering-app
-A cross-platform food ordering application developed with Flutter and Firebase. This project covers the complete software development lifecycle, from system design (sitemaps, flowcharts, wireframes) to implementation and testing with detailed test cases.
+# clashy_kitchen
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
