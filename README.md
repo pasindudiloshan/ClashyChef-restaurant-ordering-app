@@ -1,16 +1,59 @@
-# clashy_kitchen
+# 🍴 Clashy Chef – Food Ordering System  
 
-A new Flutter project.
+Clashy Chef is a custom-built food ordering and management system developed for a restaurant based in Kandy, Sri Lanka. The app enhances customer convenience by providing easy menu browsing, cart management, and order tracking, while also giving administrators tools to manage items and handle customer orders efficiently.  
 
-## Getting Started
+---
+## 📌 Features  
 
-This project is a starting point for a Flutter application.
+### 👨‍🍳 User Side  
+- Browse menu as guest or registered user  
+- Register & login with Firebase Authentication  
+- Manage items to shopping cart  
+- Place and track orders with real-time status updates  
+- View order history  
 
-A few resources to get you started if this is your first Flutter project:
+### 🛠 Admin Side  
+- Admin authentication & dashboard access  
+- Manage orders (Pending, Accepted, Completed, Canceled)  
+- Food Management with CRUD Operations
+- View/Update registered users  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 🏗 Technology Stack  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Framework:** Flutter
+- **Programming Language:** Dart  
+- **Database & Backend:** Firebase  
+- **IDE:** Android Studio / Visual Studio Code  
+
+---
+## 🚀 Getting Started  
+
+### Prerequisites  
+- **Flutter SDK**: Install from [Flutter official docs](https://docs.flutter.dev/get-started/install)  
+- **IDE**: Android Studio or VS Code (with Flutter and Dart plugins installed)  
+- **Firebase Project**:  
+  - You can either create your own Firebase project or use the preconfigured one provided.  
+  - **Download preconfigured Firebase files** from this link: [Firebase files for Clashy Chef](https://drive.google.com/drive/folders/1Z0v7VGBvAljXJ_Flf4uU7cxaL_CzKcCl?usp=sharing)  
+  - Place the files in the appropriate folders:  
+    - Android: `android/app/google-services.json`  
+    - iOS: `ios/Runner/GoogleService-Info.plist`  
+
+### Installation & Running  
+```bash
+# Clone the repository
+git clone https://github.com/pasindudiloshan/ClashyChef-restaurant-ordering-app.git
+
+# Navigate to the project folder
+cd clashy-chef
+
+# Install dependencies
+flutter pub get
+
+# Run the app on a connected device or emulator
+flutter run
+
+📝 Author - Pasindu Diloshan
+- GitHub: [pasindudiloshan](https://github.com/pasindudiloshan)  
+- Email: pasindudiloshan@gmail.com
+
