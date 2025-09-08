@@ -2,6 +2,8 @@
 
 Clashy Chef is a custom-built food ordering and management system developed for a restaurant based in Kandy, Sri Lanka. The app enhances customer convenience by providing easy menu browsing, cart management, and order tracking, while also giving administrators tools to manage items and handle customer orders efficiently.  
 
+![image alt](https://github.com/pasindudiloshan/ClashyChef-restaurant-ordering-app/blob/0fe3c9e41f0b0fb65663916237bf2453bbdb14c3/clashychef.drawio.png)
+
 ---
 ## 📌 Features  
 
@@ -16,7 +18,13 @@ Clashy Chef is a custom-built food ordering and management system developed for 
 - Admin authentication & dashboard access  
 - Manage orders (Pending, Accepted, Completed, Canceled)  
 - Food Management with CRUD Operations
-- View/Update registered users  
+- View/Update registered users
+
+---
+## 📄 Project Report
+
+The full system report detailing the design, architecture, and implementation of **Clashy Chef – Food Ordering System ** can be accessed here:  
+[View System Report](https://drive.google.com/drive/folders/1Z0v7VGBvAljXJ_Flf4uU7cxaL_CzKcCl?usp=drive_link)
 
 ---
 ## 🏗 Technology Stack  
